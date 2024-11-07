@@ -1,0 +1,61 @@
+ {
+  "notifications_count":"3",
+  "to-dos": [
+    {
+      "ticket_type": "Installation",
+      "ticket_past_due": "01",
+      "ticket_due_today": "02",
+      "ticket_future": "00"
+    },
+    {
+      "ticket_type": "Removal",
+      "ticket_past_due": "01",
+      "ticket_due_today": "02",
+      "ticket_future": "00"
+    },
+    {
+      "ticket_type": "Replacement",
+      "ticket_past_due": "01",
+      "ticket_due_today": "02",
+      "ticket_future": "00"
+    },
+    {
+      "ticket_type": "PM",
+      "ticket_past_due": "01",
+      "ticket_due_today": "02",
+      "ticket_future": "00"
+    },
+    {
+      "ticket_type": "Repair",
+      "ticket_past_due": "01",
+      "ticket_due_today": "02",
+      "ticket_future": "00"
+    },
+     {
+      "ticket_type": "Preparation",
+      "ticket_past_due": "01",
+      "ticket_due_today": "02",
+      "ticket_future": "00"
+    }
+  ],
+   "ticket": [
+    {
+      "ticket_id": "001",
+      "ticket_priority": "Urgent",
+      "ticket_ticket_type": "Repair",
+      "ticket_date": "15/09/2024",
+      "address_line_1":"Southport And Ormskirk Hospital  Nhs Trus",
+      "address_line_2":"Town Lane",
+      "address_line_3":"Southport PR8 6PN United Kingdom"
+    },
+     {
+      "ticket_id": "002",
+      "ticket_priority": "Urgent",
+      "ticket_ticket_type": "Installation",
+      "ticket_date": "15/09/2024",
+      "address_line_1":"Southport And Ormskirk Hospital  Nhs Trus",
+      "address_line_2":"Town Lane",
+      "address_line_3":"Southport PR8 6PN United Kingdom"
+    }
+  ]
+}
