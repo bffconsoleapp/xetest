@@ -7,8 +7,8 @@ import routes from './routes/app.route.js'; // Importing routes
 import { ApolloServer } from 'apollo-server-express'; // Import from apollo-server-express
 
 // Import GraphQL type definitions and resolvers
-import demotypeDefs from './graphql/demo.js' // Import GraphQL type definitions
-import demoresolver from './graphql/demoresolver.js'; // Import GraphQL resolvers
+import demotypeDefs from './graphql/demo.js';
+import demoresolver from './graphql/demoresolver.js';
 
 const app = express();
 app.use(express.json());
